@@ -1,0 +1,18 @@
+h2
+{
+margin: 50;
+color: thistle;
+background-color: tomato;
+}
+.bg-cont{
+    background-color:skyblue;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    height:60vh;
+    width:70vw;
+}
+.heading{
+    color:blue;
+    text-align:center
+}
